@@ -1,3 +1,5 @@
+ticket: https://github.com/bundler/bundler/issues/4966
+
 ## How to reproduce
 
 **1.**
