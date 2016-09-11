@@ -5,7 +5,9 @@
 Clone the repo
 
 ```
-git clone REPO
+git clone git@github.com:the-forks/bundler_test_case.git
+
+cd bundler_test_case
 ```
 
 ### Positive case
