@@ -1,0 +1,23 @@
+PATH
+  remote: ../gems/gem1
+  specs:
+    gem1 (0.1.0)
+
+PATH
+  remote: ../gems/gem2
+  specs:
+    gem2 (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  gem1!
+  gem2!
+
+BUNDLED WITH
+   1.12.0
