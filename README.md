@@ -12,7 +12,7 @@ git clone git@github.com:the-forks/bundler_test_case.git
 cd bundler_test_case
 ```
 
-### Positive case
+## Positive case
 
 **2.**
 
@@ -56,7 +56,7 @@ bundle
 
 It's ok!
 
-### Negative case
+## Negative case
 
 **2.**
 
