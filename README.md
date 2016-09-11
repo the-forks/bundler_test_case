@@ -92,8 +92,10 @@ Bundle it!
 ```
 bundle
 
-The path `/PATH/TO/RELEASES/test_case/Gemfiles/gems/gem1` does not exist.
+The path `/PATH/TO/RELEASES/bundler_test_case/Gemfiles/gems/gem1` does not exist.
 ```
+
+But we need to get `/PATH/TO/RELEASES/bundler_test_case/gems/gem1`
 
 **6.**
 
@@ -111,7 +113,7 @@ gem 'gem1', path: '../gems/gem1'
 gem 'gem2', path: '../gems/gem2'
 ```
 
-**6.**
+**7.**
 
 Try to bundle it now
 
@@ -135,3 +137,5 @@ $ bundle
 
 The path `/PATH/TO/RELEASES/gems/gem1` does not exist.
 ```
+
+But we still need to get `/PATH/TO/RELEASES/bundler_test_case/gems/gem1`
