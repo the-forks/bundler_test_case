@@ -16,7 +16,7 @@ cd bundler_test_case
 
 **2.**
 
-Uninstall all versons of Bundler in a current gemset
+Uninstall all versions of Bundler in a current gemset
 
 ```
 gem uninstall bundler
@@ -60,7 +60,7 @@ It's ok!
 
 **2.**
 
-Uninstall all versons of Bundler in a current gemset
+Uninstall all versions of Bundler in a current gemset
 
 ```
 gem uninstall bundler
